@@ -1,4 +1,4 @@
-# Manager Diary
+# Manager Diary React Native App
 
 # Open Manager app using expo on mobile
 # https://expo.io/@mwaqaass01/manager-diary?fbclid=IwAR1W2yv4Vjl8IaFxthkOg17wBsx_zYTrP1wBm_lZ_n61Yy8MXS6DIxwPtJs
